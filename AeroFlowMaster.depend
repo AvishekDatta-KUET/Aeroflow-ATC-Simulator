@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1777834794 source:f:\aeroflowmaster_project\aeroflowmaster\aircraft.cpp
+	"Aircraft.h"
+	<cmath>
+
+1777809565 f:\aeroflowmaster_project\aeroflowmaster\aircraft.h
+	"Shared.h"
+
+1776421010 f:\aeroflowmaster_project\aeroflowmaster\shared.h
+	<iostream>
+	<exception>
+	<string>
+
+1777834794 source:f:\aeroflowmaster_project\aeroflowmaster\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<typeinfo>
+	<queue>
+	<limits>
+	<windows.h>
+	"Aircraft.h"
+
