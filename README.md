@@ -61,3 +61,18 @@ To run this simulator on your local machine, you will need a standard C++ compil
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/AvishekDatta-KUET/Aeroflow-ATC-Simulator.git](https://github.com/AvishekDatta-KUET/Aeroflow-ATC-Simulator.git)
+
+---
+
+### Navigate to the directory
+cd Aeroflow-ATC-Simulator
+
+---
+
+### Compile the source code
+g++ main.cpp -o aeroflow
+
+---
+
+### Run the executable
+./aeroflow
