@@ -77,7 +77,9 @@ g++ main.cpp -o aeroflow
 ### Run the executable
 ./aeroflow
 
-👨‍💻 Author
+---
+
+###👨‍💻 Author
 Avishek Datta
 
 Computer Science and Engineering (CSE)
